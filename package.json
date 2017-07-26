@@ -11,6 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/AramilRey/fcc-timestamp-microservice.git"
   },
+  "engines": { "node" : ">=8.0.0" },
   "keywords": [],
   "author": "",
   "license": "ISC",
